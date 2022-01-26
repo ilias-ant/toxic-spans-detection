@@ -25,6 +25,6 @@ python3.8 -m poetry run jupyter notebook
 
 ## Evaluation
 
-The team that has ranked first in this competition (HITSZ-HLT) has achieved an $ F_1 $ score of $ 70.83 \% $, with the median score across all 36 participating teams being $ 67.58 \% $.
+The team that has ranked first in this competition (HITSZ-HLT) has achieved an F1 score of 70.83% , with the median score across all 36 participating teams being 67.58%.
 
-Our approach, as presented here, yields: $ 64.46 \%$.
+Our approach, as presented here, yields: 64.46%.
