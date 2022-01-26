@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "An attempt at the SemEval 2021 Task 5: Toxic Spans Detection."
 authors = ["Ilias Antonopoulos <ilias.antonopoulos@yahoo.gr>","Silva Ndoja <silvandoja1@gmail.com>"]
 license = "MIT"
+keywords = ["nlp", "deep-learning", "semeval-2021", "toxic-spans-detection"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
